@@ -17,10 +17,14 @@
 
     <div class="middle">
         <div class="content">
-            <div class="card"></div>
-            <div class="card"></div>
-            <div class="card"></div>
-            <div class="card"></div>
+            <div class="status">
+                <div class="name">Name</div>
+                <div class="feel">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam atque minima consequatur tempore dolores odit facere sint repudiandae vero, quis nostrum dolorum sed corrupti! Neque rem possimus odit dolorum deleniti?</div>
+                <div class="date_time">Date-Time</div>
+            </div>
+            <div class="status"></div>
+            <div class="status"></div>
+            <div class="status"></div>
         </div>
 
     

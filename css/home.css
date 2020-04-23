@@ -22,3 +22,44 @@
     background-color: rgb(19, 75, 107);
     height:1200px;
 }
+
+.content{
+    width:1200px;
+    margin:auto;
+    border: 2px solid #e6c32b;
+    height:1100px;
+}
+
+.status{
+    color:rgb(18, 87, 18);
+    margin:10px;
+    border:2px #245764 solid;
+}
+
+.name,.feel,.date_time{
+    padding: 30px 30px 0px 30px;
+    display:block;
+}
+
+.name{
+    float:left;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.feel{
+    font-size: 25px;
+}
+
+.date_time{
+    float:right;
+    font-size: 30px;
+}
+
+body{
+    margin:auto;
+}
+.chat{
+    display:flex;
+    margin:auto;
+}

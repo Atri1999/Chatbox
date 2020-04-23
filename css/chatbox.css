@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:rgb(93, 185, 192);
+    margin:auto;
+}
+.chat{
+    
+    
+}
+.person{
+    width:300px;
+    height:400px;
+}
+.write{
+    width:900px;
+    height:900px;
+    scroll-behavior: initial;
+    padding:20px;
+    background-color: rgba(12, 61, 83,0.4);
+    position: relative;
+}
+
+.person img{
+    width:300px;
+    height:400px;
+}
+
+.chats{
+    border-radius: 30px;
+    border:1px rgb(243, 240, 230) solid;
+    display:block;
+    padding:30px;
+    color:rgb(246, 247, 243);
+    font-size: 20px;
+    margin-top: 30px;
+    
+}
+
+.other{
+    margin-right: 400px;
+}
+
+.me{
+    margin-left: 400px;
+}
+
+.form{
+    display:flex;
+    position: absolute;
+    bottom:1px;
+    padding:20px;
+}
+
+.msg{
+    width:780px;
+    padding: 10px;
+}
+
+.msg_button{
+    width:40px;
+}
+
+.f{
+    height:50px;
+    border-radius: 20px;
+    font-size: 20px;
+    border:4px solid rgb(214, 162, 17);
+    background-color: lightblue;
+}
